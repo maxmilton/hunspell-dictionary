@@ -1,0 +1,21 @@
+{
+  "spellright.documentTypes": [
+    "css",
+    "dockerfile",
+    "html",
+    "javascript",
+    "json",
+    "jsonc",
+    "nginx",
+    "makefile",
+    "markdown",
+    "marko",
+    "postcss",
+    "properties",
+    "shellscript",
+    "text",
+    "vue",
+    "yaml"
+  ],
+  "spellright.language": "en_AU"
+}
