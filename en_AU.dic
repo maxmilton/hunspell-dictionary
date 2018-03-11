@@ -1,4 +1,7 @@
-53419
+53420
+@ts-check
+@ts-ignore
+@ts-nocheck
 &&
 &aacute
 &abreve
@@ -6726,7 +6729,6 @@ bowed/U
 bowel/SM
 Bowell/M
 Bowen/M
-bower
 bower/M
 bowerrc
 Bowers/M
@@ -11364,7 +11366,7 @@ copycatted
 copycatting
 copyist/MS
 copyleft
-copyright/GSMD
+copyright/GSMD@
 copywriter/MS
 coquetry/SM
 coquette/DSMG
@@ -17228,11 +17230,8 @@ extemporaneousness/M
 extempore
 extemporisation/M
 extemporise/GDS
-extend
-extend/SZGDRB
-Extended
+extend/SZGDRB@
 extender/M
-extends
 extensible
 extension/SM
 extensional
@@ -17983,14 +17982,13 @@ filament/MS
 filamentous
 filbert/MS
 filch/DSG
-file
 file's/KC
-file/CAKGDS
+file/CAKGDS@
 filename
 filename/S
 filenames
+fileoverview/@
 filer/CSM
-files
 filesystem
 filet
 filetype
@@ -20262,6 +20260,7 @@ gitconfig
 gite/S
 github
 GitHub/M
+gitignore
 gitrebase
 Giuliani/M
 Giuseppe/M
@@ -31753,6 +31752,7 @@ multigrain
 multilateral/Y
 multilayered
 multilevel
+multiline
 multilingual
 multilingualism/M
 multimedia/M
@@ -34697,8 +34697,7 @@ overreact/SDG
 overreaction/SM
 overrefined
 overridden
-override
-override/MGS
+override/MGS@
 overripe/M
 overrode
 overrule/GDS
@@ -34768,7 +34767,7 @@ overturn/DSG
 overuse/DSMG
 overvaluation/S
 overvalue/DSG
-overview/MS
+overview/MS@
 overweening/Y
 overweight/M
 overwhelm/SGD
@@ -37609,6 +37608,7 @@ preamble/MGDS
 prearrange/LGDS
 prearrangement/M
 preassigned
+prebuild
 precache
 Precambrian/M
 precancel/SMDG
@@ -37767,6 +37767,7 @@ preoccupy/DSG
 preoperative
 preordain/GDS
 prep/MS
+prepack
 prepackage/DSG
 prepacked
 prepaid
@@ -37799,6 +37800,7 @@ prequel/MS
 prerecord/GSD
 preregister/SGD
 preregistration/M
+prerelease
 prerender
 prerequisite/MS
 prerogative/SM
@@ -37999,10 +38001,8 @@ pristine
 prithee
 Prius/M
 privacy/M
-private
-Private
 private-bower
-private/XMYTNRS
+private/XMYTNRS@
 privateer/SM
 privation/CSM
 privatisation/SM
@@ -38218,8 +38218,7 @@ propelling
 propensity/SM
 proper/MRYT
 properties
-property
-property/DSM
+property/DSM@
 PropertyList
 prophecy/SM
 prophesier/M
@@ -48002,7 +48001,7 @@ thirteenths
 thirtieth/M
 thirtieths
 thirty/HSM
-this
+this/@
 thistle
 thistle/MS
 thistledown/M
@@ -48967,6 +48966,7 @@ transpacific
 transparency/SM
 transparent
 transparent/Y
+transpile
 Transpile
 transpiration/M
 transpire/DSG
@@ -49668,9 +49668,10 @@ tympanist/MS
 tympanum/SM
 Tyndale/M
 Tyndall/M
-type/AGDS
+type/AGDS@
 typecast/GS
 Typedef
+typedef/@
 typeface/MS
 typeid
 typename
@@ -50907,7 +50908,6 @@ vernier/SM
 Vernon/M
 Verona/M
 Veronese/M
-veronica/M
 Veronica/M
 verror
 verruca/SM
@@ -50921,8 +50921,7 @@ versed/U
 versification/M
 versifier/M
 versify/ZGNDRS
-version
-version/AFIMS
+version/AFIMS@
 versionchange
 versioned
 versioning
