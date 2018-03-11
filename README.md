@@ -12,9 +12,16 @@ Features:
 
 ## Usage
 
+TODO: Write me!
+
+### Use in VS Code (on Linux)
+
 ```shell
-# TODO: Write me!
+#ln -s <PathToThisDirectory> ~/.config/Code/Dictionaries
+ln -s ./ ~/.config/Code/Dictionaries
 ```
+
+then install the `Spell Right` extension. Also see the [Spell Right docs](https://github.com/bartosz-antosik/vscode-spellright).
 
 ## TODO
 
